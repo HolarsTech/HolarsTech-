@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(../IMAGES/desk.jpg);
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+}
+.login{
+    position: absolute;
+    top: 100px;
+    left: 450px;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 40px 30px;
+    padding: 10px 20px;
+}
+.login h1{
+    color: blue;
+    font-style: initial;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.login p{
+    font-size: 25px;
+    margin: 10px 0px;
+}
+.login input{
+    padding: 8px 25px;
+    border-color: white;
+    background-color: lightgrey;
+    border-radius: 20px;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.login button{
+    font-size: 20px;
+    border-radius: 20px;
+    border-color: white;
+    background-color: lightgrey;
+    padding: 10px 20px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    
+}

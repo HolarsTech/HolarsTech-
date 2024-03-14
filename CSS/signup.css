@@ -1,0 +1,56 @@
+*{
+    margin: opx;
+    padding: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-image: url(../IMAGES/desk.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.registration form{
+    position: absolute;
+    top: 80px;
+    left: 30%;
+    transform: translate(50px);
+  
+}
+.reg{
+    color: blue;
+    padding: 0px 450px;
+    text-align: center;
+    
+}
+.registration form p{
+    font-size: 20px;
+    margin: 10px 0px;
+}
+.registration form input{
+    font-size: 20px;
+    padding: 5px 30px;
+    background-color: lightgray;
+    border-color: white;
+    border-radius: 20px;
+}
+.registration form select{
+    color: black;
+    font-size: 20px;
+    border-color: white;
+    background-color: lightgrey;
+    padding: 3px 15px;
+    border-radius: 20px;
+}
+.registration form option{
+    font-size: 30px;
+    color: blue;
+}
+.registration form button{
+    font-size: larger;
+    padding: 3px 40px;
+    border-color: white;
+    background-color: lightgrey;
+    border-radius: 20px;
+}
+h2{
+    font-style: initial;
+}
